@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3207'
     url: http://www.gutenberg.org/2009/agents/3207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43742#To-Tell-You-the-Truth
 gutenberg_issued: '2013-09-16'
 gutenberg_type: Text
 identifiers:
