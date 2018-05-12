@@ -1,0 +1,31 @@
+_repo: To-Tell-You-the-Truth_43742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merrick, Leonard
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '3207'
+    url: http://www.gutenberg.org/2009/agents/3207
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+tableOfContents: Mademoiselle ma mère -- Aribaud's two wives -- That villain her father
+  -- The statue -- The celebrity at home -- Picq plays the hero -- A flat to spare
+  -- A portrait of a coward -- The boom -- Pilar Naranjo -- The girl who was tired
+  of love -- In the year of our Lord 1918 -- A pot of pansies -- Floromond and Frisonnette.
+title: To Tell You the Truth
+url: http://www.gutenberg.org/ebooks/43742
